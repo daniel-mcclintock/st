@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "Hermit:size=9:antialias=true:autohint=false";
+static char *font = "Hurmit Nerd Font:size=10:antialias=true:autohint=false";
 
 /* disable bold, italic and roman fonts globally */
 int disablebold = 0;
