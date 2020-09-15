@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "Hurmit Nerd Font:size=10:antialias=true:autohint=false";
+static char *font = "JetBrains Mono:pixelsize=11";
 
 /* disable bold, italic and roman fonts globally */
 int disablebold = 0;
